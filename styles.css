@@ -15,9 +15,26 @@ header {
   padding: 30px
     height: 70%
     background-image urlhttp://mukuro.net/image/gray-sofas-ideas/gray-sofa-idea-stunning-grey-couch-living-room-contemporary-amazing-design-blue-and-yellow-finest-dark-also-paint-furniture-loveseat-uk-ikea-sofascore-cheap-decor-pillow.jpg
-    background-size
-    background-
-    background-attachment
-    background-position
+    background-size; cover
+    background-attachment: fixed;
+    background-position: center;
+}
+H1 {
+  text-align: center;
+}
+main }
+  padding-top:15px;
+}
+aside {
+  padding: 30px;
+  backround-color: #c0ded9
+    color: black;
+}
+footer {
+  padding: 30px;
+  background-color: #c0ded9
+    color: black
+}
+    
   
   
