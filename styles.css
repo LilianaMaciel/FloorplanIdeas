@@ -6,7 +6,7 @@ body {
 nav {
   padding: 30px;
   background-color: #c0ded9;
-    position: sticky;
+  position: sticky;
   top: 0;
   text-shadow: 1px 1px 0 #444;
   color-black;
@@ -40,6 +40,7 @@ article {
   grid-area: article;
   padding: 30px;
   backround-color: #c0ded9;
+  color: black;
 }
 footer {
   grid-area: footer;
