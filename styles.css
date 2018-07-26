@@ -4,7 +4,7 @@ body {
   color: black;
 }
 nav {
-  padding: 36px;
+  padding: 30px;
   background-color: #c0ded9;
     position: sticky;
   top: 0;
@@ -23,22 +23,23 @@ H1 {
   text-align: center;
 }
 main }
-  padding-top:15px;
+  padding-top: 15px;
   display:grid;
   grid-template-areas:
     'aside article article'
     'aside footer footer';
+  grid-gap: 30px;
 }
 aside {
   grid-area: aside;
   grid-gap: 30px;
-  background- color: #c0ded9;
+  background-color: #c0ded9;
   color: black;
 }
 article {
   grid-area: article;
   padding: 30px;
-  backround- color: #c0ded9;
+  backround-color: #c0ded9;
 }
 footer {
   grid-area: footer;
